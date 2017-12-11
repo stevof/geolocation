@@ -1,14 +1,3 @@
-# SFDX  App
+# Salesforce DX Trailhead - Geolocation training app
 
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
-
+For course [App Development with Salesforce DX](https://trailhead.salesforce.com/modules/sfdx_app_dev)
